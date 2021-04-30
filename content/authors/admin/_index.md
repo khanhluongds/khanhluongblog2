@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Khanh Luong
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoc Research Fellow in Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Queensland University of Technology
+  url: https://www.qut.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -69,9 +69,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+# Heading 1
+## Heading 2
+- 
+Dr. Khanh Luong finished her PhD in Computer Science specializing in Data Science from Queensland University of Technology in 2019. She is working as a Postdoctoral Researcher in Data Science at QUT Centre for Data Science. Her research is concerned with dealing multiple aspect data, one of emerging, promising and challenging research topics in recent years. The multiple aspect data that is represented by multiple views and contain different types of multiple relationship has become commonly available along with the advancements in technology, yet very high-dimensional and extreme sparse. The practice of having more informative data requires the learning method to be able to exploit, as much as possible, all the available data in order to capture the true valuable hidden knowledge from data and return informative outcomes. Her research has contributed to the fields of machine learning and data mining by developing various innovative methods ready to be deployed on real-world datasets ranging from text, image, sound, video and bioinformatics data, in diverse problems such as clustering, classification, anomaly detection, community discovery or collaborative filtering with the novel multi-aspect outlook. Currently, she is working on the Applied Data Science project, one of core projects of QUT Centre for Data Science, which aims to produce effective solutions dealing with complex datasets, ranging from text data to sensor data, generated from real-world industry problems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
