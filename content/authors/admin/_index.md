@@ -69,8 +69,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-%# Heading 1
-%## Heading 2
+[//]: # Heading 1
+[//]: # Heading 1
+
 - 
 Dr. Khanh Luong finished her PhD in Computer Science specializing in Data Science from Queensland University of Technology in 2019. She is working as a Postdoctoral Researcher in Data Science at QUT Centre for Data Science. Her research is concerned with dealing multiple aspect data, one of emerging, promising and challenging research topics in recent years. The multiple aspect data that is represented by multiple views and contain different types of multiple relationship has become commonly available along with the advancements in technology, yet very high-dimensional and extreme sparse. The practice of having more informative data requires the learning method to be able to exploit, as much as possible, all the available data in order to capture the true valuable hidden knowledge from data and return informative outcomes. Her research has contributed to the fields of machine learning and data mining by developing various innovative methods ready to be deployed on real-world datasets ranging from text, image, sound, video and bioinformatics data, in diverse problems such as clustering, classification, anomaly detection, community discovery or collaborative filtering with the novel multi-aspect outlook. Currently, she is working on the Applied Data Science project, one of core projects of QUT Centre for Data Science, which aims to produce effective solutions dealing with complex datasets, ranging from text data to sensor data, generated from real-world industry problems.
 
