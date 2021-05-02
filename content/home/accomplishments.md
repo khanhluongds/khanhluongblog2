@@ -23,29 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/6CJUMBPWV9CX
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2020-08-15"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Machine Learning
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://blackboard.qut.edu.au/webapps/qut-certs-bb_bb60/ch1/view_cert.jsp?course_id=_153889_1&content_id=_8529343_1
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_start: "2020-05-02"
+  description: Leadership and Communication
+  organization: E-Grad School Australia
+  organization_url: https://www.qut.edu.au/research/e-grad-school
+  title: Leadership and Communication
+  url: ""
+
+- certificate_url: https://blackboard.qut.edu.au/webapps/qut-certs-bb_bb60/ch1/view_cert.jsp?course_id=_154151_1&content_id=_8507138_1
+  date_end: ""
+  date_start: "2020-05-02"
+  description: Introduction to Coding for Researchers
+  organization: E-Grad School Australia
+  organization_url: https://www.qut.edu.au/research/e-grad-school
+  title: Introduction to Coding for Researchers
   url: ""
 
 design:
