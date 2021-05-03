@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "A Novel Approach to Learning Consensus and Complementary Information for Multi-View Data Clustering"
 authors:
 - admin
 - Robert Ford
@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Effective methods are required to be developed that can deal with the multi-faceted nature of the multi-view data. We design a factorization-based loss function-based method to simultaneously learn two components encoding the consensus and complementary information present in multi-view data by using the Coupled Matrix Factorization (CMF) and Non-negative Matrix Factorization (NMF). We propose a novel optimal manifold for multi-view data which is the most consensed manifold embedded in the high-dimensional multi-view data. A new complementary enhancing term is added in the loss function to enhance the complementary information inherent in each view. An extensive experiment with diverse datasets, benchmarking the state-of-the-art multi-view clustering methods, has demonstrated the effectiveness of the proposed method in obtaining accurate clustering solution.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,7 +31,7 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://ieeexplore.ieee.org/document/9101762
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
